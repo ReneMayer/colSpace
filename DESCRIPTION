@@ -1,0 +1,15 @@
+Package: colSpace
+Type: Package
+Title: display column space of a linear model in 3D
+Version: 1.0
+Date: 2014-07-29
+Authors@R: c(person("Rene", "Mayer", 
+                     role = c("aut", "cre"), 
+                     email = "mayer@psychologie.tu-dresden.de")
+            )
+Author: Rene Mayer           
+Maintainer: <mayer@psychologie.tu-dresden.de>
+Description: display column space of a linear model in 3D
+License: GPL (>= 2) 
+Depends: R (>= 3.1.0), rgl
+LazyLoad: yes
